@@ -53,6 +53,6 @@ func tugas4() {
 func main() {
     // tugas1()
     // tugas2()
-    tugas3()
-    // tugas4()
+    // tugas3()
+    tugas4()
 }
